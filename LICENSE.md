@@ -1,4 +1,4 @@
-# 
+# quantitative Polymarket Addon | real-time-market-analysis + sentiment-analysis is the best Polymarket addon, featuring real-time-market-analysis and sentiment-analysis. Smart,
 
 
 
